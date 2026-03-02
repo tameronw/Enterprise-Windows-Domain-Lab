@@ -303,11 +303,11 @@ Configured permissions using AD Security Groups:
 Created GPO: `Map-IT-Drive`
 
 ### Configuration Path: 
-
 User Configuration
 → Preferences
 → Windows Settings
 → Drive Maps
+
 
 
 
