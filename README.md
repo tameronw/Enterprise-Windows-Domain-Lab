@@ -196,3 +196,19 @@ Computer Configuration
 → Control Panel Settings
 → Local Users and Groups
 
+- Action: **Replace**
+- Target: **Administrators Group**
+- Added: `Workstation-LocalAdmins`
+
+4. Linked GPO to: `Corp-Computers`
+
+---
+
+### 🧪 Validation
+
+- Standard IT-Support user (Kobe) is **NOT** a local administrator  
+- IT-Admins group members **ARE** local administrators  
+
+Verified using:
+
+
