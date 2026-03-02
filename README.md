@@ -37,11 +37,16 @@ This lab demonstrates:
 To simulate an enterprise environment, I created the following OU layout:
 
 Corp-Users
+
 ├── IT
+
 ├── HR
+
 └── Finance
 
 Corp-Computers
+
 Corp-Groups
+
 Service-Accounts
 
