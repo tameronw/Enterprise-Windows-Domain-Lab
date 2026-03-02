@@ -384,7 +384,32 @@ Installed and configured the DHCP role on `DC01`.
 - Windows 11 obtained IP automatically
 - Ubuntu Server obtained IP via DHCP
 - Verified via:
+
 ipconfig /all
+
+---
+
+## 📸 Evidence
+
+- DHCP scope configuration <img width="1035" height="821" alt="17_dhcp_scope_config" src="https://github.com/user-attachments/assets/71fd497d-cbe5-4c23-98a5-6bf6f9437266" />
+
+---
+
+## 🧭 DNS Configuration
+
+Verified AD-integrated DNS functionality:
+
+- Forward Lookup Zone: `lab.local`
+- Dynamic registration enabled
+- Confirmed domain controllers registered properly
+
+---
+
+### 🧪 DNS Testing
+
+Validated name resolution using:
+
+
 
 
 
