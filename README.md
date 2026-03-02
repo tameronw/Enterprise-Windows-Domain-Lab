@@ -95,8 +95,8 @@ Permissions are assigned to **security groups**, not individual users — follow
 
 ## 📸 Evidence (Screenshots)
 
-- <img width="1046" height="775" alt="01_ADUC_org" src="https://github.com/user-attachments/assets/c723d86f-02ac-4267-9bd9-7e438034e797" />
- – Full OU structure in Active Directory Users and Computers  
+- Full OU structure in Active Directory Users and Computers <img width="1046" height="775" alt="01_ADUC_org" src="https://github.com/user-attachments/assets/c723d86f-02ac-4267-9bd9-7e438034e797" />
+ –   
 - <img width="1049" height="810" alt="02_Kobe_in_IT_OU" src="https://github.com/user-attachments/assets/9b65309c-192a-4e68-93e5-4d3502f251c6" />
  – User located in IT OU  
 - <img width="1045" height="784" alt="03_computerOU" src="https://github.com/user-attachments/assets/b6f61f84-e188-4d5f-b789-3455cd22e47d" />
