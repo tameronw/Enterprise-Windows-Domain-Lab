@@ -464,6 +464,72 @@ Understanding DNS failures is critical for:
 - Root cause analysis  
 
 ---
+---
+
+# 🧪 Lab 5 – Linux Server Administration  
+*(Cross-Platform Systems Management & CLI Operations)*
+
+## 🔎 Overview
+
+In this lab, I deployed an Ubuntu Server within the Active Directory lab network to demonstrate cross-platform system administration and Linux command-line proficiency.
+
+This lab demonstrates:
+
+- Linux system deployment
+- User and permission management
+- SSH configuration
+- Cross-platform connectivity
+- Basic privilege delegation (sudo)
+
+---
+
+## 🖥 Linux Environment Setup
+
+- Installed Ubuntu Server
+- Configured network via DHCP (assigned by DC01)
+- Verified domain network connectivity
+- Confirmed DNS resolution to domain controller
+
+Validated connectivity using: CLI
+
+- `ping DC01`
+- `ip addr`
+  
+---
+
+## 👤 User & Privilege Management
+
+Created a new administrative user:
+
+- `sudo adduser itadmin`
+- `sudo usermod -aG sudo itadmin`
+
+
+### Actions Performed
+
+- Created local user `itadmin`
+- Added user to `sudo` group
+- Verified group membership
+- Tested privilege escalation using `sudo`
+
+---
+
+### 🎯 Why This Matters
+
+Demonstrates:
+
+- Linux user account management
+- Role-based privilege assignment
+- Secure administrative delegation
+- Command-line proficiency
+
+---
+
+## 🔐 File Permission Management
+
+Performed ownership and permission modifications:
+
+
 
 
 
