@@ -309,6 +309,84 @@ User Configuration
 → Drive Maps
 
 
+Mapped:
+
+- Drive Letter: `I:`
+- Location: `\\DC01\IT-Share`
+
+Security Filtering:
+- Applied to `IT-Support` group
+
+---
+
+### 🧪 Validation
+
+- Logged in as Kobe Bryant
+- Verified automatic drive mapping
+- Confirmed correct access permissions
+- Tested access denial for unauthorized folders
+
+---
+
+## 📸 Evidence
+
+- `13_SHARES_nfts_security.png` – NTFS Security tab configuration  
+- `14_share_permissions.png` – Share-level permissions  
+- `15_Map_IT_driveGPO.png` – Drive mapping GPO configuration  
+- `16_win11_mapped_drive.png` – Mapped network drive visible in Windows 11  
+
+---
+
+### 🚀 Skills Demonstrated
+
+- SMB file sharing configuration  
+- NTFS permission management  
+- AD group-based access control  
+- GPO-based drive mapping  
+- File access troubleshooting  
+
+---
+
+---
+
+# 🧪 Lab 4 – DNS & DHCP Infrastructure Services  
+*(Core Domain Networking & Troubleshooting)*
+
+## 🔎 Overview
+
+In this lab, I configured and validated **DHCP and DNS services integrated with Active Directory**, ensuring reliable domain communication and automatic IP address management for Windows and Linux systems.
+
+This lab demonstrates:
+
+- Core networking fundamentals
+- AD-integrated DNS configuration
+- DHCP scope creation and authorization
+- Structured troubleshooting methodology
+
+---
+
+## 🌐 DHCP Configuration
+
+Installed and configured the DHCP role on `DC01`.
+
+### ⚙ Scope Configuration
+
+- Created IPv4 scope
+- Configured IP address range
+- Defined subnet mask
+- Configured DNS server option (pointing to DC01)
+- Authorized DHCP server in Active Directory
+
+---
+
+### 🧪 Validation
+
+- Windows 11 obtained IP automatically
+- Ubuntu Server obtained IP via DHCP
+- Verified via:
+
+
+
 
 
 
