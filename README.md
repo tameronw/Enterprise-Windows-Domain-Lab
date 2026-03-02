@@ -143,9 +143,9 @@ This demonstrates:
 
 ## 📸 Evidence
 
-- `06_baseline_security.png` – GPO linked at domain level  
-- `07_accountpolicy.png` – Account lockout configuration  
-- `08_password_policy.png` – Password policy settings  
+- GPO linked at domain level <img width="1061" height="801" alt="06_baseline_security" src="https://github.com/user-attachments/assets/19a96927-16e6-4384-8cab-ac70c176179e" />
+- Account lockout configuration <img width="1073" height="832" alt="07_accountpolicy" src="https://github.com/user-attachments/assets/710398e2-562c-4635-b79c-31a1eff26257" />
+- Password policy settings <img width="1048" height="793" alt="08_password_policy" src="https://github.com/user-attachments/assets/fb417081-89b8-45c1-bf09-c73c67aa9294" />
 
 ---
 
