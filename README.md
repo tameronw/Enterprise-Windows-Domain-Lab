@@ -337,7 +337,7 @@ Security Filtering:
 
 ---
 
-# 🚀 Skills Demonstrated Across Labs 3 & 4
+# 🚀 Skills Demonstrated Across Labs 3
 
 - SMB file sharing configuration  
 - NTFS permission management  
@@ -454,7 +454,7 @@ Understanding DNS failures is critical for:
 
 ---
 
-# 🚀 Skills Demonstrated Across Labs 5 & 6
+# 🚀 Skills Demonstrated Across Labs 4
 
 - DHCP role installation & configuration  
 - IP scope design  
