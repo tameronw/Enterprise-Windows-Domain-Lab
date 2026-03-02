@@ -209,7 +209,9 @@ Computer Configuration
 - IT-Admins group members **ARE** local administrators  
 
 Verified using: 
-"whoami /groups 
-net localgroup administrators"
+
+"whoami /groups" 
+
+"net localgroup administrators"
 
 
