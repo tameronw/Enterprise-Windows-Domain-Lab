@@ -213,4 +213,35 @@ Verified using: CLI
 - "whoami /groups"
 - "net localgroup administrators"
 
+---
+
+### 🎯 Impact
+
+- Prevents unauthorized elevation of privileges  
+- Enforces enterprise least-privilege standards  
+- Demonstrates real-world workstation privilege management  
+
+---
+
+## 📸 Evidence
+
+- Local Users and Groups GPO configuration <img width="1038" height="831" alt="11_localadmin_workstationGPO" src="https://github.com/user-attachments/assets/3fa73d0f-e970-4fde-af58-0868e0fe76f5" />
+
+- Local group verification on Win11 <img width="1033" height="819" alt="12_win11_groups_whoami" src="https://github.com/user-attachments/assets/4f770f7b-12f9-42d1-9c70-ba4ed6820fa4" />
+ 
+
+---
+
+# 🚀 Skills Demonstrated Across Labs 1 & 2
+
+- Active Directory administration  
+- OU and object organization  
+- Role-Based Access Control (RBAC)  
+- Domain-wide password policy enforcement  
+- Workstation restriction via GPO  
+- Centralized local administrator management  
+- Enterprise security baseline implementation  
+
+---
+
 
