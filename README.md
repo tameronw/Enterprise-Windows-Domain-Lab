@@ -330,10 +330,10 @@ Security Filtering:
 
 ## 📸 Evidence
 
-- `13_SHARES_nfts_security.png` – NTFS Security tab configuration  
-- `14_share_permissions.png` – Share-level permissions  
-- `15_Map_IT_driveGPO.png` – Drive mapping GPO configuration  
-- `16_win11_mapped_drive.png` – Mapped network drive visible in Windows 11  
+- NTFS Security tab configuration <img width="1031" height="809" alt="13_SHARES_nfts_security" src="https://github.com/user-attachments/assets/8612a6fc-be79-4287-b200-9fcb50c0bdbe" />
+- Share-level permissions <img width="1034" height="811" alt="14_share_permissions" src="https://github.com/user-attachments/assets/60d18109-3042-41fd-a6ba-7e9573bf95f3" />
+- Drive mapping GPO configuration <img width="1041" height="821" alt="15_Map_IT_driveGPO" src="https://github.com/user-attachments/assets/cef552b2-af5c-449e-9d13-eec12b5c4d05" />
+-  Mapped network drive visible in Windows 11  <img width="1038" height="800" alt="16_win11_mapped_drive" src="https://github.com/user-attachments/assets/d6f79809-682a-4e3b-8142-dc4cf95bf813" />
 
 ---
 
