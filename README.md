@@ -97,10 +97,14 @@ Permissions are assigned to **security groups**, not individual users — follow
 
 - <img width="1046" height="775" alt="01_ADUC_org" src="https://github.com/user-attachments/assets/c723d86f-02ac-4267-9bd9-7e438034e797" />
  – Full OU structure in Active Directory Users and Computers  
-- `02_Kobe_in_IT_OU.png` – User located in IT OU  
-- `03_computerOU.png` – Windows 11 computer object in Corp-Computers OU  
-- `04_security_groups.png` – Security group configuration (Global + Security)  
-- `05_ITadmin_members.png` – Group membership assignments  
+- <img width="1049" height="810" alt="02_Kobe_in_IT_OU" src="https://github.com/user-attachments/assets/9b65309c-192a-4e68-93e5-4d3502f251c6" />
+ – User located in IT OU  
+- <img width="1045" height="784" alt="03_computerOU" src="https://github.com/user-attachments/assets/b6f61f84-e188-4d5f-b789-3455cd22e47d" />
+ – Windows 11 computer object in Corp-Computers OU  
+- <img width="1054" height="781" alt="04_security_groups" src="https://github.com/user-attachments/assets/02661060-f132-4ce8-9d7d-270591a39c6d" />
+ – Security group configuration (Global + Security)  
+- <img width="1055" height="800" alt="05_ITadmin_members" src="https://github.com/user-attachments/assets/bdbcfa16-8f50-47db-b39f-713f367a55f9" />
+ – Group membership assignments  
 
 ---
 
