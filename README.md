@@ -195,7 +195,6 @@ Computer Configuration
 → Preferences
 → Control Panel Settings
 → Local Users and Groups
-
 -   Action: **Replace**
 -   Target: **Administrators Group**
 -   Added: `Workstation-LocalAdmins`
