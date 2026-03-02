@@ -170,15 +170,16 @@ Demonstrates:
 
 - Centralized workstation control  
 - Policy enforcement at the OU level  
-- Real-world endpoint restriction management  
-
+- Real-world endpoint restriction management
+  
 ---
 
 ## 📸 Evidence
 
-- `09_user_restriction.png` – User Configuration GPO settings  
-- `10_win11_no_control_panel.png` – Control Panel disabled on Windows 11  
-
+- User Configuration GPO settings <img width="1066" height="774" alt="09_user_restriction" src="https://github.com/user-attachments/assets/5f080ccc-4056-47dc-b5b9-2972595b1f43" />
+  
+- Control Panel disabled on Windows 11 <img width="1035" height="809" alt="10_win11_no_control_panel" src="https://github.com/user-attachments/assets/50ac6d09-2e30-4792-aef0-2030606d1742" />
+  
 ---
 
 ## 👮 Local Administrator Control via Group Policy
