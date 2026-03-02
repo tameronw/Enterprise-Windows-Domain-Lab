@@ -668,10 +668,10 @@ Bridges cybersecurity and IT operations by demonstrating:
 
 ## 📸 Evidence
 
-- `25_defender_dashboard.png` – Windows Defender status dashboard  
-- `26_RDP_blocked.png` – Firewall rule blocking RDP  
-- `27_openVAS_scans.png` – OpenVAS vulnerability scan results  
-
+- Windows Defender status dashboard <img width="1036" height="817" alt="25_defender_dashboard" src="https://github.com/user-attachments/assets/fc44000d-2ac8-4ad3-9f52-3b2c24e4278d" />
+- Firewall rule blocking RDP <img width="1031" height="812" alt="26_RDP_blocked" src="https://github.com/user-attachments/assets/7de5e215-913f-45b4-bee4-8bd243a2f224" />
+- `27_openVAS_scans.png` – OpenVAS vulnerability scan results
+  
 ---
 
 ### 🚀 Skills Demonstrated
