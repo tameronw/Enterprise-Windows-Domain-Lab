@@ -1,4 +1,4 @@
-# 🏢 Enterprise Windows Domain Lab  
+# 🏢 Enterprise Environment: Windows 
 **Active Directory | Group Policy | RBAC | Endpoint Management**
 
 ---
