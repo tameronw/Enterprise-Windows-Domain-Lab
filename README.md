@@ -407,11 +407,67 @@ Verified AD-integrated DNS functionality:
 
 ### 🧪 DNS Testing
 
-Validated name resolution using:
+Validated name resolution using: CLI
 
 nslookup DC01
 
 ping DC01
+
+
+Confirmed proper DNS resolution from:
+
+- Windows 11 client
+- Ubuntu server
+
+---
+
+## 🔧 DNS Failure Simulation & Troubleshooting
+
+To simulate a real-world help desk scenario:
+
+1. Manually misconfigured DNS server on Windows 11
+2. Observed:
+   - Domain login failures
+   - Name resolution failure
+3. Diagnosed using:
+   - `ipconfig`
+   - `nslookup`
+4. Restored correct DNS server setting
+5. Verified connectivity restored
+
+---
+
+### 🎯 Why This Matters
+
+Active Directory is **DNS-dependent**.  
+Understanding DNS failures is critical for:
+
+- Login troubleshooting
+- GPO application issues
+- Domain communication problems
+
+---
+
+## 📸 Evidence
+
+- DNS forward lookup zone <img width="1042" height="819" alt="18_dns_forward_zone" src="https://github.com/user-attachments/assets/5b5e61fb-c3e7-4374-9bcc-0bdee3c8c6d2" />
+- Client DNS configuration <img width="1035" height="817" alt="19_ipconfig_all" src="https://github.com/user-attachments/assets/4c335079-23f0-4f29-832b-e8702dbc7696" />
+- DNS misconfiguration causing failure <img width="1036" height="813" alt="20_win11_dns_MISconfig" src="https://github.com/user-attachments/assets/4ba6767e-3a4e-4b5a-b22e-ce399a66a984" />
+- Connectivity restored <img width="1036" height="804" alt="21_connection_restored" src="https://github.com/user-attachments/assets/e0b1b9e5-8c60-4f7f-b98b-cfd397fd8da7" />
+
+---
+
+### 🚀 Skills Demonstrated
+
+- DHCP role installation & configuration  
+- IP scope design  
+- DNS zone validation  
+- Name resolution testing  
+- Network troubleshooting  
+- Root cause analysis  
+
+---
+
 
 
 
