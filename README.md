@@ -263,11 +263,52 @@ This demonstrates:
 
 ## 🗂 Department File Share Structure
 
-Created the following folder structure on `DC01`: 
+Created the following folder structure on `DC01`:
+
 D:\IT-Share
 
 D:\HR
 
 D:\Finance
+
+---
+
+## 🔐 Permission Configuration
+
+### ⚙ Share-Level Permissions
+
+- Removed default broad access (e.g., Everyone)
+- Granted access only to appropriate security groups
+
+### ⚙ NTFS Permissions
+
+Configured permissions using AD Security Groups:
+
+- `IT-Support` → Modify access to `IT-Share`
+- Department groups assigned to their respective folders
+- Inheritance reviewed and adjusted where necessary
+
+---
+
+### 🎯 Why This Matters
+
+- Enforces department-based data separation
+- Prevents unauthorized file access
+- Follows enterprise best practice: **Access via Groups, not Users**
+
+---
+
+## 🗺 Drive Mapping via Group Policy
+
+Created GPO: `Map-IT-Drive`
+
+### Configuration Path: 
+
+User Configuration
+→ Preferences
+→ Windows Settings
+→ Drive Maps
+
+
 
 
