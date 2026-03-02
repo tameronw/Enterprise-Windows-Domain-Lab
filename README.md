@@ -208,6 +208,7 @@ Computer Configuration
 - Standard IT-Support user (Kobe) is **NOT** a local administrator  
 - IT-Admins group members **ARE** local administrators  
 
-Verified using:
+Verified using: whoami /groups 
+net localgroup administrators
 
 
