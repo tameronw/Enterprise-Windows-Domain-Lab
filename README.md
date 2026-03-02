@@ -190,5 +190,9 @@ To enforce **least privilege**, I implemented centralized local administrator ma
 
 1. Created Security Group: `Workstation-LocalAdmins`
 2. Nested `IT-Admins` inside `Workstation-LocalAdmins`
-3. Configured GPO:
+3. Configured GPO: 
+Computer Configuration
+→ Preferences
+→ Control Panel Settings
+→ Local Users and Groups
 
