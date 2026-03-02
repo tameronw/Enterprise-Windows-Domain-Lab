@@ -384,6 +384,8 @@ Installed and configured the DHCP role on `DC01`.
 - Windows 11 obtained IP automatically
 - Ubuntu Server obtained IP via DHCP
 - Verified via:
+ipconfig /all
+
 
 
 
