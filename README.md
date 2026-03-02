@@ -95,7 +95,8 @@ Permissions are assigned to **security groups**, not individual users — follow
 
 ## 📸 Evidence (Screenshots)
 
-- `01_ADUC_org.png` – Full OU structure in Active Directory Users and Computers  
+- <img width="1046" height="775" alt="01_ADUC_org" src="https://github.com/user-attachments/assets/c723d86f-02ac-4267-9bd9-7e438034e797" />
+ – Full OU structure in Active Directory Users and Computers  
 - `02_Kobe_in_IT_OU.png` – User located in IT OU  
 - `03_computerOU.png` – Windows 11 computer object in Corp-Computers OU  
 - `04_security_groups.png` – Security group configuration (Global + Security)  
