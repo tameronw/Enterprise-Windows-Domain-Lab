@@ -243,5 +243,31 @@ Verified using: CLI
 - Enterprise security baseline implementation  
 
 ---
+---
+
+# 🧪 Lab 3 – File Services & NTFS Permission Management  
+*(Department-Based Access Control & Drive Mapping)*
+
+## 🔎 Overview
+
+In this lab, I configured centralized file shares on the domain controller and implemented department-based access control using **NTFS permissions and Active Directory security groups**.
+
+This demonstrates:
+
+- File server administration
+- NTFS vs Share permission design
+- Group-based access control
+- Centralized drive mapping via GPO
+
+---
+
+## 🗂 Department File Share Structure
+
+Created the following folder structure on `DC01`: 
+D:\IT-Share
+
+D:\HR
+
+D:\Finance
 
 
