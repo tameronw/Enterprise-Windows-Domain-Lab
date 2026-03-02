@@ -529,6 +529,178 @@ Demonstrates:
 
 Performed ownership and permission modifications:
 
+- `chmod 750 filename`
+- `chown itadmin:itadmin filename`
+- `ls -l`
+
+### Validated:
+
+- Correct file ownership
+- Proper permission enforcement
+- Restricted access for unauthorized users
+
+---
+
+### 🎯 Why This Matters
+
+Understanding Linux permissions is critical for:
+
+- Securing server environments
+- Managing shared resources
+- Preventing unauthorized access
+
+---
+
+## 🌐 SSH Configuration & Remote Access
+
+Enabled and validated SSH access from Windows 11 workstation.
+
+Verified:
+
+- Successful remote login to Ubuntu server
+- Secure CLI access
+- Cross-platform network communication
+
+---
+
+## 📸 Evidence
+
+- SSH session from Windows 11 to Ubuntu <img width="1021" height="807" alt="22_ssh_win11_toUBU" src="https://github.com/user-attachments/assets/a0ab1f2d-96ce-49b4-ad35-e4eb1033d141" />
+- Verification of sudo group membership <img width="1025" height="796" alt="23_ssh_sudo_member" src="https://github.com/user-attachments/assets/d9b70d51-4ac2-4ec9-a23e-21236bdca99d" />
+- File permission and ownership validation <img width="1009" height="787" alt="24_ssh_file_permisions" src="https://github.com/user-attachments/assets/8f445a43-39b1-49d4-a4af-fee705944c65" />
+
+---
+
+# 🚀 Skills Demonstrated Across Lab 5
+
+- Linux CLI administration  
+- User and group management  
+- Sudo privilege delegation  
+- File permission control  
+- SSH remote management  
+- Cross-platform troubleshooting  
+
+---
+
+---
+
+# 🧪 Lab 6 – Security Hardening & Vulnerability Management  
+*(Endpoint Protection & Risk Remediation)*
+
+## 🔎 Overview
+
+In this lab, I implemented endpoint hardening measures across Windows and Linux systems and performed vulnerability scanning to identify and remediate security risks within the domain environment.
+
+This demonstrates:
+
+- Endpoint protection management
+- Firewall configuration
+- Vulnerability assessment
+- Patch management fundamentals
+- Security-focused troubleshooting
+
+---
+
+## 🛡 Windows Endpoint Hardening
+
+### Verified Security Controls
+
+- Confirmed Windows Defender real-time protection enabled
+- Reviewed security intelligence updates
+- Validated system health status
+
+### Windows Firewall Configuration
+
+- Reviewed inbound and outbound rules
+- Blocked inbound Remote Desktop (RDP)
+- Verified RDP connection failure after rule implementation
+
+---
+
+### 🎯 Why This Matters
+
+Demonstrates:
+
+- Secure baseline configuration
+- Reduction of attack surface
+- Understanding of remote access security risks
+
+---
+
+## 🔍 Vulnerability Scanning
+
+Installed OpenVAS on Ubuntu Server and conducted internal vulnerability scans against:
+
+- Domain Controller (DC01)
+- Windows 11 Workstation
+
+### Process
+
+1. Configured scan targets
+2. Initiated vulnerability scan
+3. Reviewed findings
+4. Identified misconfigurations or outdated software
+5. Applied remediation through:
+   - Windows Updates
+   - Configuration adjustments
+   - Service hardening
+
+---
+
+### 🎯 Why This Matters
+
+Bridges cybersecurity and IT operations by demonstrating:
+
+- Vulnerability identification
+- Risk assessment
+- Remediation workflow
+- Practical security implementation
+
+---
+
+## 🔄 Patch Management & Remediation
+
+- Applied Windows Updates to domain systems
+- Verified update installation
+- Re-ran vulnerability scan to confirm remediation improvements
+
+---
+
+## 📸 Evidence
+
+- `25_defender_dashboard.png` – Windows Defender status dashboard  
+- `26_RDP_blocked.png` – Firewall rule blocking RDP  
+- `27_openVAS_scans.png` – OpenVAS vulnerability scan results  
+
+---
+
+### 🚀 Skills Demonstrated
+
+- Windows Defender management  
+- Firewall rule configuration  
+- Vulnerability scanning (OpenVAS)  
+- Risk remediation  
+- Patch management  
+- Security hardening practices  
+
+---
+
+# 🏁 Enterprise Lab Summary
+
+This repository demonstrates hands-on experience with:
+
+- Active Directory administration  
+- Group Policy implementation  
+- Role-Based Access Control (RBAC)  
+- File server & NTFS permissions  
+- DNS & DHCP configuration  
+- Linux system administration  
+- Vulnerability management  
+- Endpoint security hardening  
+- Cross-platform troubleshooting  
+
+This lab environment simulates real-world enterprise IT infrastructure and support workflows.
+
 
 
 
