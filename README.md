@@ -196,9 +196,9 @@ Computer Configuration
 → Control Panel Settings
 → Local Users and Groups
 
-- Action: **Replace**
-- Target: **Administrators Group**
-- Added: `Workstation-LocalAdmins`
+-   Action: **Replace**
+-   Target: **Administrators Group**
+-   Added: `Workstation-LocalAdmins`
 
 4. Linked GPO to: `Corp-Computers`
 
