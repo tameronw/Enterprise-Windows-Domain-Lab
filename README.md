@@ -409,10 +409,8 @@ Verified AD-integrated DNS functionality:
 
 Validated name resolution using: CLI
 
-nslookup DC01
-
-ping DC01
-
+- nslookup DC01
+- ping DC01
 
 Confirmed proper DNS resolution from:
 
